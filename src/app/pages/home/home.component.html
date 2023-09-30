@@ -1,0 +1,10 @@
+<div class="home__container">
+  <app-card
+    *ngFor="let data of dataValues; let index"
+    gameLabel={{data.gameLabel}}
+    gamePrice={{data.gamePrice}}
+    image={{data.image}}
+    gameType={{data.gameType}}
+  >
+  </app-card>
+</div>
