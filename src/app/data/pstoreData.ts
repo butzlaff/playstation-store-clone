@@ -24,11 +24,12 @@ export const pstoreData : DataStore[] = [
     gamePrice:  '299,99',
     image: 'bt-4.jpg',
     gameLabel: 'DIGITAL'
-  },  {
+  },  
+  {
     gameType: 'Digital PS4 PS5',
     gamePrice:  '399,99',
     image: 'bt-5.jpg',
-    gameLabel: 'DIGITAL'
+    gameLabel: 'LANÇAMENTO'
   },
   {
     gameType: 'Digital PS3 PS4',
